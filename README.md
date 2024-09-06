@@ -1,4 +1,4 @@
-PENJUMLAHAN BINER   
+***PENJUMLAHAN BINER***  
 1.  1101₂ + 1011₂
       1101
 + 1011
@@ -20,7 +20,7 @@ Nilai desimal: 29+27=56
 1000101111
 Nilai desimal :437 + 346 = 783
 
-PENGURANGAN BINER
+***PENGURANGAN BINER***
 4. 10101₂ - 10011₂
    10101
 - 10011
@@ -44,7 +44,7 @@ Nilai desimal:
 Nilai desimal:
 38 – 25 = 13
 
-PERKALIAN BINER
+***PERKALIAN BINER***
 7. 110₂ × 101₂
       110
 × 101
@@ -53,6 +53,7 @@ PERKALIAN BINER
 +1100
 ----
 11110
+
 Nilai desimal:
 6 x 5 =30
 
